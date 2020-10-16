@@ -22,9 +22,9 @@ if (document.querySelector('.registration__form')) {
 };
 
 /////////////////////////////////////////////////////////////////////////////// Initialization form of comments
-if (document.querySelector('.comments__form')) {
-  window.form.init(document.querySelector('.comments__form'));
-};
+// if (document.querySelector('.comments__form')) {
+//   window.form.init(document.querySelector('.comments__form'));
+// };
 
 /////////////////////////////////////////////////////////////////////////////// Initialization form on the contact-us page
 if (document.querySelector('.contact-us__form')) {
